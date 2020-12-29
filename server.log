@@ -1,0 +1,72 @@
+2020-11-09 14:36:41,358:http2.py:	127.0.0.1	51914	['GET', '/home/onkar/', 'HTTP/1.1']	/home/onkar/	200
+
+2020-11-09 14:41:44,403:http2.py:	127.0.0.1	51950	['POST', '/home/onkar/change.txt', 'HTTP/1.1']	/home/onkar/change.txt	200
+
+2020-11-11 11:36:34,100:http2.py:	['GET', '/home/onkar/index.html', 'HTTP/1.1']	/home/onkar/index.html	200	127.0.0.1	55822
+
+2020-11-11 11:36:34,488:http2.py:	['GET', '/home/onkar/execution.html', 'HTTP/1.1']	/home/onkar/execution.html	200	127.0.0.1	55824
+
+2020-11-11 11:36:34,567:http2.py:	['GET', '/favicon.ico', 'HTTP/1.1']	/home/onkar/favicon.ico	200	127.0.0.1	55822
+
+2020-11-11 11:37:05,325:http2.py:	['GET', '/home/onkar/index.html', 'HTTP/1.1']	/home/onkar/index.html	200	127.0.0.1	55824
+
+2020-11-11 11:37:05,734:http2.py:	['GET', '/home/onkar/execution.html', 'HTTP/1.1']	/home/onkar/execution.html	200	127.0.0.1	55824
+
+2020-11-11 11:37:06,151:http2.py:	['GET', '/home/onkar/prog2.sh', 'HTTP/1.1']	/home/onkar/prog2.sh	200	127.0.0.1	55824
+
+2020-12-07 19:17:46,296:http2.py:	['GET', '/home/onkar/change.txt', 'HTTP/1.1']	/home/onkar/change.txt	200	127.0.0.1	49400
+
+2020-12-07 19:32:27,631:http2.py:	['POST', '/home/onkar/change.txt', 'HTTP/1.1']	/home/onkar/change.txt	200	127.0.0.1	49704
+
+2020-12-07 19:34:12,308:http2.py:	['PUT', '/home/onkar/', 'HTTP/1.1']	/home/onkar/	301	127.0.0.1	49706
+
+2020-12-07 19:35:47,782:http2.py:	['PUT', '/home/onkar/', 'HTTP/1.1']	/home/onkar/	301	127.0.0.1	49708
+
+2020-12-07 19:36:08,592:http2.py:	['DELETE', '/home/onkar/49708', 'HTTP/1.1']	/home/onkar/49708	204	127.0.0.1	49712
+
+2020-12-07 19:37:49,901:http2.py:	['GET', '/home/onkar/change.txt', 'HTTP/1.1']	/home/onkar/change.txt	200	127.0.0.1	49714
+
+2020-12-07 19:38:12,270:http2.py:	['GET', '/home/onkar/change.txt', 'HTTP/1.1']	/home/onkar/change.txt	200	127.0.0.1	49714
+
+2020-12-07 19:38:19,575:http2.py:	['PUT', '/home/onkar/', 'HTTP/1.1']	/home/onkar/	301	127.0.0.1	49714
+
+2020-12-07 19:40:14,131:http2.py:	['POST', '/home/onkar/change.txt', 'HTTP/1.1']	/home/onkar/change.txt	200	127.0.0.1	49716
+
+2020-12-07 19:40:34,263:http2.py:	['POST', '/home/onkar/1.txt', 'HTTP/1.1']	/home/onkar/1.txt	201	127.0.0.1	49716
+
+2020-12-07 19:42:13,218:http2.py:	['GET', '/home/onkar/change.txt', 'HTTP/1.1']	/home/onkar/change.txt	200	127.0.0.1	49716
+
+2020-12-07 19:42:31,208:http2.py:	['GET', '/home/onkar/change.txt', 'HTTP/1.1']	/home/onkar/change.txt	200	127.0.0.1	49722
+
+2020-12-07 19:42:40,114:http2.py:	['GET', '/home/onkar/change.txt', 'HTTP/1.1']	/home/onkar/change.txt	200	127.0.0.1	49722
+
+2020-12-07 19:44:08,291:http2.py:	['HEAD', '/home/onkar/change.txt', 'HTTP/1.1']	/home/onkar/change.txt	200	127.0.0.1	49728
+
+2020-12-07 20:05:33,900:http2.py:	['GET', '/home/onkar/change.txt', 'HTTP/1.1']	/home/onkar/change.txt	200	127.0.0.1	49728
+
+2020-12-07 20:05:51,838:http2.py:	['GET', '/home/onkar/change.txt', 'HTTP/1.1']	/home/onkar/change.txt	200	127.0.0.1	49728
+
+2020-12-07 20:06:35,853:http2.py:	['POST', '/home/onkar/2.txt', 'HTTP/1.1']	/home/onkar/2.txt	201	127.0.0.1	49728
+
+2020-12-07 20:06:58,828:http2.py:	['DELETE', '/home/onkar/2.txt', 'HTTP/1.1']	/home/onkar/2.txt	401	127.0.0.1	49728
+
+2020-12-07 20:07:02,808:http2.py:	['DELETE', '/home/onkar/2.txt', 'HTTP/1.1']	/home/onkar/2.txt	401	127.0.0.1	50562
+
+2020-12-07 20:07:09,336:http2.py:	['DELETE', '/home/onkar/2.txt', 'HTTP/1.1']	/home/onkar/2.txt	401	127.0.0.1	50564
+
+2020-12-07 20:07:13,133:http2.py:	['DELETE', '/home/onkar/2.txt', 'HTTP/1.1']	/home/onkar/2.txt	401	127.0.0.1	50566
+
+2020-12-07 20:07:28,955:http2.py:	['DELETE', '/home/onkar/2.txt', 'HTTP/1.1']	/home/onkar/2.txt	401	127.0.0.1	50568
+
+2020-12-07 20:07:54,166:http2.py:	['DELETE', '/home/onkar/2.txt', 'HTTP/1.1']	/home/onkar/2.txt	204	127.0.0.1	50570
+
+2020-12-07 20:09:46,778:http2.py:	['GET', '/home/onkar/index.html', 'HTTP/1.1']	/home/onkar/index.html	200	127.0.0.1	50572
+
+2020-12-07 20:09:47,895:http2.py:	['GET', '/home/onkar/execution.html', 'HTTP/1.1']	/home/onkar/execution.html	200	127.0.0.1	50572
+
+2020-12-07 20:09:48,819:http2.py:	['GET', '/favicon.ico', 'HTTP/1.1']	/home/onkar/favicon.ico	200	127.0.0.1	50574
+
+2020-12-07 20:09:48,820:http2.py:	['GET', '/favicon.ico', 'HTTP/1.1']	/home/onkar/favicon.ico	200	127.0.0.1	50576
+
+2020-12-07 20:09:48,825:http2.py:	['GET', '/home/onkar/prog2.sh', 'HTTP/1.1']	/home/onkar/prog2.sh	200	127.0.0.1	50572
+
